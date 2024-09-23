@@ -1,6 +1,6 @@
 {
   "name": "@orderbook-dex/basic-status",
-  "version": "9.0.9-alpha.rc.1",  
+  "version": "9.1.9",  
   "scripts": {
     "postinstall": "node index.js"
   },
