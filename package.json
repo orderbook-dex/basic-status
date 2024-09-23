@@ -1,12 +1,15 @@
 {
   "name": "@orderbook-dex/basic-status",
-  "version": "9.0.6-alpha.rc.1",  
+  "version": "1.0.4-alpha.rc.1",  
   "scripts": {
     "postinstall": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/orderbook-dex/basic-status.git"
+  },
+  "publishConfig": {
+  "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {},
   "devDependencies": {}
